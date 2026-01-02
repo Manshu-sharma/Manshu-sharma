@@ -3,7 +3,7 @@
 
 **Manshu-sharma/Manshu-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 # 💫 About Me:
 🔭 I’m currently working on:<br>Building projects related to Data Analysis, Web Development, and Python-based applications.<br><br>👯 I’m looking to collaborate on:<br>Beginner-friendly open-source projects, data analysis tasks, and web development projects.<br><br>🤝 I’m looking for help with:<br>Advanced Python, real-world data analysis problems, and project optimization.<br><br>🌱 I’m currently learning:<br>Python, SQL, Data Analysis, Machine Learning basics, and Web Technologies.<br><br>💬 Ask me about:<br>Python, SQL, Data Analytics basics, HTML, CSS, and beginner project ideas.<br><br>⚡ Fun fact:<br>I love turning raw data into meaningful insights and enjoy learning something new every day 🚀
 
