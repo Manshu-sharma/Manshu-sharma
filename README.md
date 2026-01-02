@@ -1,5 +1,5 @@
 
-
+## Hi there 👋 I'm Manshu Sharma
 
 **Manshu-sharma/Manshu-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,30 +22,6 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Manshu-sharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Hi there 👋 I'm Manshu Sharma
 
-🎯 Aspiring Data Analyst & Web Developer  
-📊 I love working with data and building simple, useful web projects
 
-- 🔭 I’m currently working on  
-  Data Analysis projects using Python, SQL, and Excel
-
-- 🌱 I’m currently learning  
-  Python, Data Analytics, Machine Learning basics, HTML, CSS, JavaScript
-
-- 👯 I’m looking to collaborate on  
-  Beginner-friendly open source projects and data analysis tasks
-
-- 🤔 I’m looking for help with  
-  Real-world data analysis problems and project optimization
-
-- 💬 Ask me about  
-  Python, SQL, Data Analytics basics, HTML, CSS
-
-- 📫 How to reach me  
-  🔗 LinkedIn: https://www.linkedin.com/in/manshu-sharma  
-  📧 Email: manshusharma84@gmail.com
-
-- ⚡ Fun fact  
-  I enjoy turning raw data into meaningful insights 🚀
 
